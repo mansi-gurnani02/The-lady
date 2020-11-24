@@ -170,10 +170,10 @@
 
 
 			</ul>
-			<img src="capture3.png" style="height: 91px;width: 209px;position:fixed"></img>
+			<img src="images/capture3.png" style="height: 91px;width: 209px;position:fixed"></img>
 		</div>
 		<div>
-			<img src="imgback.jpg" style="margin-left: -7px;width: 100%;margin-top:-8px"></img>
+			<img src="images/imgback.jpg" style="margin-left: -7px;width: 100%;margin-top:-8px"></img>
 		</div>
 		<div class="div2">
 			<center><h1 style="font-family: 'Abril Fatface', cursive;color:black;" id="ABOUT US"><u>ABOUT US</a></u></h1></center>
@@ -181,7 +181,7 @@
 				<p style="margin-right:62%;color:#b6073e;font-size:17px;">Our boutiques have a unique look and shopping experience that captures the feel and vibe of the local area.  We feature the most sought after styles and trends that create a stunning wardrobe for our customers.  Our stylists embrace our shopper’s individual taste from mother to daughter, or even grandmother!  Shopping at Traveling Chic Boutique is truly a unique experience.</p></div>
 				
 			<div style="margin-top: -362px;">
-			     <img src="pro4.jpg" style="height:319px;margin-left:49%;margin-top:45px;"></img>
+			     <img src="images/pro4.jpg" style="height:319px;margin-left:49%;margin-top:45px;"></img>
 			</div>
 			<div>
 				<li><i class="fa fa-bullseye" aria-hidden="true" style="border:2px solid black;size:20px; padding:2px;" ></i></li>
@@ -199,13 +199,13 @@
 						<h2>PHOTOGRAPHY</h2>
 						</div></center>
 					<div>
-						<img src="pro6.jpg" style="height: 202px;margin-left: 588px;width: 333px;margin-top: 47px;"></img>
+						<img src="images/pro6.jpg" style="height: 202px;margin-left: 588px;width: 333px;margin-top: 47px;"></img>
 					</div> 
 					<div>
-						<img src="pro7.jpg" style="margin-top: -201px;height: 202px;width: 333px;margin-left: 179px;"></img>
+						<img src="images/pro7.jpg" style="margin-top: -201px;height: 202px;width: 333px;margin-left: 179px;"></img>
 					</div>
 					<div>
-						<img src="pro8.jpg" style="margin-top:-203px;height: 202px;width: 346px;margin-left:991px;"></img>
+						<img src="images/pro8.jpg" style="margin-top:-203px;height: 202px;width: 346px;margin-left:991px;"></img>
 					</div>
 					<div style="background-color:white;margin-left: 180px;margin-right: 992px;margin-top:0px;padding: 30px;;">
 						<h4><p>You have to stay true to your heritage; that's what our brand is about</p></h4>
@@ -223,30 +223,30 @@
 			<div style="border:2px solid purple;margin-top:20px;padding-bottom:20px;">
 				<div><center><h1 style="font-family: 'Abril Fatface', cursive;color:black;" id="GALLERY"><u>GALLERY</a></u></h1></center></div>
 				<div class="div4">
-					<img class="div4" src="pro10.jpg"></img>
-					<img class="div4"src="pro9.jpg"></img>
-					<img class="div4" src="pro11.jpg"></img>
+					<img class="div4" src="images/pro10.jpg"></img>
+					<img class="div4"src="images/pro9.jpg"></img>
+					<img class="div4" src="images/pro11.jpg"></img>
 			</div>
 			<div>
-					<img src="pro12.jpg" style="height: 234;width: 405;margin-left: 582px;margin-top:-222px;"></img>
+					<img src="images/pro12.jpg" style="height: 234;width: 405;margin-left: 582px;margin-top:-222px;"></img>
 			</div>
 			<div>
-					<img src="pro3.jpg" style="height: 234;width: 403px;margin-top: 28px;margin-left: 582px;"></img>
+					<img src="images/pro3.jpg" style="height: 234;width: 403px;margin-top: 28px;margin-left: 582px;"></img>
 			</div>
 			<div>
-					<img src="pro14.jpg"style="height: 234;width:403px;margin-top: 19px;
+					<img src="images/pro14.jpg"style="height: 234;width:403px;margin-top: 19px;
                      margin-left:582px;"></img>
 			</div>
 			<div>
-					<img src="pro5.jpg" style="width: 385px;height: 241px;margin-left:1070px;
+					<img src="images/pro5.jpg" style="width: 385px;height: 241px;margin-left:1070px;
                     margin-top: -757px;"></img>
 			</div>
 			<div>
-					<img src="pro13.jpg" style="height: 234;width: 389px;margin-left: 1065px;
+					<img src="images/pro13.jpg" style="height: 234;width: 389px;margin-left: 1065px;
                      margin-top: -487px"></img>
 			</div>
 			<div>
-					<img src="pro1.jpg" style="height: 234;width: 389px;margin-left: 1065px;
+					<img src="images/pro1.jpg" style="height: 234;width: 389px;margin-left: 1065px;
                      margin-top:-233px"></img>
 			</div>
 		</div>
